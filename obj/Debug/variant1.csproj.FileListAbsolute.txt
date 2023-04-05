@@ -1,0 +1,12 @@
+C:\Users\Emil_\source\repos\variant1\bin\Debug\variant1.exe.config
+C:\Users\Emil_\source\repos\variant1\bin\Debug\variant1.exe
+C:\Users\Emil_\source\repos\variant1\bin\Debug\variant1.pdb
+C:\Users\Emil_\source\repos\variant1\obj\Debug\variant1.csproj.AssemblyReference.cache
+C:\Users\Emil_\source\repos\variant1\obj\Debug\variant1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emil_\source\repos\variant1\obj\Debug\variant1.Form1.resources
+C:\Users\Emil_\source\repos\variant1\obj\Debug\variant1.Properties.Resources.resources
+C:\Users\Emil_\source\repos\variant1\obj\Debug\variant1.csproj.GenerateResource.cache
+C:\Users\Emil_\source\repos\variant1\obj\Debug\variant1.csproj.CoreCompileInputs.cache
+C:\Users\Emil_\source\repos\variant1\obj\Debug\variant1.exe
+C:\Users\Emil_\source\repos\variant1\obj\Debug\variant1.pdb
+C:\Users\Emil_\source\repos\variant1\bin\Debug\Resourse\Buyers.xml

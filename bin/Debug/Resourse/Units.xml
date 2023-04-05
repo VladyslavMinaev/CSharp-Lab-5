@@ -1,0 +1,22 @@
+<Units>
+  <Unit>
+    <Id>1</Id>
+    <UnitName>grams</UnitName>
+  </Unit>
+  <Unit>
+    <Id>2</Id>
+    <UnitName>milliliters</UnitName>
+  </Unit>
+  <Unit>
+    <Id>3</Id>
+    <UnitName>pieces</UnitName>
+  </Unit>
+  <Unit>
+    <Id>4</Id>
+    <UnitName>kilograms</UnitName>
+  </Unit>
+  <Unit>
+    <Id>5</Id>
+    <UnitName>liters</UnitName>
+  </Unit>
+</Units>

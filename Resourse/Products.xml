@@ -1,0 +1,146 @@
+<Products>
+  <Product>
+    <ProductId>1</ProductId>
+    <Name>Sugar</Name>
+    <PurchasePrice>50</PurchasePrice>
+    <UnitId>1</UnitId>
+  </Product>
+  <Product>
+    <ProductId>2</ProductId>
+    <Name>Milk</Name>
+    <PurchasePrice>70</PurchasePrice>
+    <UnitId>5</UnitId>
+  </Product>
+  <Product>
+    <ProductId>3</ProductId>
+    <Name>Bread</Name>
+    <PurchasePrice>30</PurchasePrice>
+    <UnitId>3</UnitId>
+  </Product>
+  <Product>
+    <ProductId>4</ProductId>
+    <Name>Beef</Name>
+    <PurchasePrice>500</PurchasePrice>
+    <UnitId>4</UnitId>
+  </Product>
+  <Product>
+    <ProductId>5</ProductId>
+    <Name>Cheese</Name>
+    <PurchasePrice>300</PurchasePrice>
+    <UnitId>1</UnitId>
+  </Product>
+  <Product>
+    <ProductId>6</ProductId>
+    <Name>Apple</Name>
+    <PurchasePrice>40</PurchasePrice>
+    <UnitId>3</UnitId>
+  </Product>
+  <Product>
+    <ProductId>7</ProductId>
+    <Name>Banana</Name>
+    <PurchasePrice>60</PurchasePrice>
+    <UnitId>3</UnitId>
+  </Product>
+  <Product>
+    <ProductId>8</ProductId>
+    <Name>Orange</Name>
+    <PurchasePrice>50</PurchasePrice>
+    <UnitId>3</UnitId>
+  </Product>
+  <Product>
+    <ProductId>9</ProductId>
+    <Name>Lemon</Name>
+    <PurchasePrice>20</PurchasePrice>
+    <UnitId>3</UnitId>
+  </Product>
+  <Product>
+    <ProductId>10</ProductId>
+    <Name>Lime</Name>
+    <PurchasePrice>25</PurchasePrice>
+    <UnitId>3</UnitId>
+  </Product>
+  <Product>
+    <ProductId>11</ProductId>
+    <Name>Chicken</Name>
+    <PurchasePrice>300</PurchasePrice>
+    <UnitId>4</UnitId>
+  </Product>
+  <Product>
+    <ProductId>12</ProductId>
+    <Name>Turkey</Name>
+    <PurchasePrice>400</PurchasePrice>
+    <UnitId>4</UnitId>
+  </Product>
+  <Product>
+    <ProductId>13</ProductId>
+    <Name>Pork</Name>
+    <PurchasePrice>450</PurchasePrice>
+    <UnitId>4</UnitId>
+  </Product>
+  <Product>
+    <ProductId>14</ProductId>
+    <Name>Fish</Name>
+    <PurchasePrice>200</PurchasePrice>
+    <UnitId>4</UnitId>
+  </Product>
+  <Product>
+    <ProductId>15</ProductId>
+    <Name>Shrimp</Name>
+    <PurchasePrice>500</PurchasePrice>
+    <UnitId>4</UnitId>
+  </Product>
+  <Product>
+    <ProductId>16</ProductId>
+    <Name>Rice</Name>
+    <PurchasePrice>25</PurchasePrice>
+    <UnitId>4</UnitId>
+  </Product>
+  <Product>
+    <ProductId>17</ProductId>
+    <Name>Pasta</Name>
+    <PurchasePrice>20</PurchasePrice>
+    <UnitId>4</UnitId>
+  </Product>
+  <Product>
+  <ProductId>18</ProductId>
+  <Name>Flour</Name>
+  <PurchasePrice>15</PurchasePrice>
+  <UnitId>4</UnitId>
+</Product>
+<Product>
+  <ProductId>19</ProductId>
+  <Name>Sugar</Name>
+  <PurchasePrice>40</PurchasePrice>
+  <UnitId>4</UnitId>
+</Product>
+<Product>
+  <ProductId>20</ProductId>
+  <Name>Salt</Name>
+  <PurchasePrice>10</PurchasePrice>
+  <UnitId>4</UnitId>
+</Product>
+<Product>
+  <ProductId>21</ProductId>
+  <Name>Tomato</Name>
+  <PurchasePrice>30</PurchasePrice>
+  <UnitId>4</UnitId>
+</Product>
+<Product>
+  <ProductId>22</ProductId>
+  <Name>Potato</Name>
+  <PurchasePrice>15</PurchasePrice>
+  <UnitId>4</UnitId>
+</Product>
+<Product>
+  <ProductId>23</ProductId>
+  <Name>Onion</Name>
+  <PurchasePrice>20</PurchasePrice>
+  <UnitId>4</UnitId>
+</Product>
+<Product>
+  <ProductId>24</ProductId>
+  <Name>Carrot</Name>
+  <PurchasePrice>25</PurchasePrice>
+  <UnitId>4</UnitId>
+</Product>
+</Products>
